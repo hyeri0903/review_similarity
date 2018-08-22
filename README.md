@@ -1,8 +1,8 @@
 # review_similarity
 
 실행 환경
-- 언어 Python2
-- Ipython
+- 언어 - Python2
+- Ipython (Jupyter notebook)
 
 문장 분석 방법
 - Konlpy package - Twitter class
